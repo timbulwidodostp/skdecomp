@@ -1,5 +1,7 @@
-d 'skdecomp': Estimate Shapley value of growth, price, and distribution components on changes in poverty indicators Use skdecomp With STATA 18
+d 'skdecomp': Estimate Shapley value of growth, price, and distribution components on changes in poverty indicators Use skdecomp And drdecomp With STATA 18
 d
 f _ex_skdecomp.ado
 f skdecomp.ado
 f skdecomp.sthlp
+f _ex_drdecomp.ado
+f drdecomp.ado
