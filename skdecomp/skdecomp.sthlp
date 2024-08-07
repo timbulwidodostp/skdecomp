@@ -77,6 +77,12 @@ By typing {helpb return list}, the following results are reported:
 
 {p 8 12}{inp:. skdecomp income, by(year) varpl(lp_4usd) mpl(1 2.5 6)}{p_end}
 
+{p 8 12}{inp:. drdecomp income, by(year) varpl(lp_4usd)}{p_end}
+
+{p 8 12}{inp:. drdecomp income, by(year) varpl(lp_4usd) in(fgt0 fgt1 fgt2)}{p_end}
+
+{p 8 12}{inp:. drdecomp income, by(year) varpl(lp_4usd) mpl(1 2.5 6)}{p_end}
+
 {title:References}
 
 {p 4 4 2}Shorrocks, A.; Kolenikov, S. A Decomposition Analysis of Regional Poverty in Russia, Discussion Paper No. 2003/74 United Nations University, 2003.{p_end}
