@@ -3,6 +3,8 @@ Estimate Shapley value of growth, price, and distribution components on changes 
 
 Implements the shapley value of Kolenikov and Shorrocks (2003) decomposition of changes in a welfare indicator into growth, distribution and p Use skdecomp And drdecomp With STATA 18
 
+https://www.youtube.com/watch?v=I34xJCV0D7g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
